@@ -1,2 +1,2 @@
 # LFI-Aut
-Script em Python para automatizar o porcesso de busca por LFI
+Script em Python para automatizar o processo de busca por LFI
